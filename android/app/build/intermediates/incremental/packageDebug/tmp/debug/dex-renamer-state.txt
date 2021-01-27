@@ -1,0 +1,4 @@
+#Tue Jan 26 22:49:04 IST 2021
+base.0=C\:\\Users\\Honey\\Desktop\\device id\\deviceid\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
